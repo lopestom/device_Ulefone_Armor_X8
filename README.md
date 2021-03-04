@@ -1,6 +1,7 @@
 # TWRP device tree for Ulefone Armor X8 2020
 # 
 2021-02-26: Second repo from PC - TWRP started by user knedlyk 4pda Armor X8 but he said the touch doesn't work. Maybe the problem is the kernel driver touch. User go solve that to know.
+2021-03-03: Kernel touch screen driver solved by Chela_vek 4pda.
 
 ## About Device
 MediaTek Helio A25 (12 nm)
